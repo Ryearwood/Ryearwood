@@ -11,4 +11,4 @@ My name is Russell and I am a Data Scientist/Engineer interested in Computer Vis
 I will continue periodically adding hobby repositories when I can, so in the meanwhile:
 - Please reach out and connect with me via [LinkedIn](https://www.linkedin.com/in/yearwoodrussell/) if you have any questions! 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryearwood&theme=python-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryearwood&mode=weekly&theme=python-dark)](https://git.io/streak-stats)
