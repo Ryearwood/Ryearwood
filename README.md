@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryearwood&mode=weekly&theme=python-dark)](https://git.io/streak-stats)    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryearwood&count_private=true&hide=contribs,issues&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryearwood&mode=weekly&theme=python-dark)](https://git.io/streak-stats)    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryearwood&count_private=true&hide=contribs,issues&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
