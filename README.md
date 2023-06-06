@@ -29,8 +29,7 @@
 
 My name is Russell and I am a Software Engineer/Data Scientist interested in Robotics, Computer Vision, NLP and Machine Learning Applications
 - I currently work as a Software Engineer at Quandri where I build automation bots to simplify workflow processes
-- I also work as an Data Science Instructor/Mentor at Lighthouse Labs and am an early founding reviewer for the Data Science Community at Aggregate Intellect
-- I am always interested in collaborating on any projects or interest pieces and am happy to lend my assistance wherever I can!
+- I'm always interested in collaborating on any projects or interest pieces, and am happy to lend my assistance wherever I am able!
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
