@@ -1,4 +1,14 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryearwood&mode=weekly&theme=python-dark)](https://git.io/streak-stats)    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryearwood&count_private=true&hide=contribs,issues&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+👋 Hi and welcome to my GitHub! 
+
+My name is Russell and I am a Data/Software Engineer interested in Robotics and Machine Learning Applications
+- I currently work as a Software Engineer and Data Analytics Instructor focusing on Python and Elixir Respectively
+- I'm always interested in collaborating on any projects or interest pieces, and am happy to lend my assistance wherever I am able!
+
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/yearwoodrussell/" target="blank"><img align="center" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="mailto:yearwoodrussel@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="" height="30" width="40" /></a>
+</p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -23,16 +33,3 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-👋 Hi and welcome to my GitHub! 
-
-My name is Russell and I am a Data/Software Engineer interested in Robotics and Machine Learning Applications
-- I currently work as a Software Engineer and Data Analytics Instructor focusing on Python and Elixir Respectively
-- I'm always interested in collaborating on any projects or interest pieces, and am happy to lend my assistance wherever I am able!
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/yearwoodrussell/" target="blank"><img align="center" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="mailto:yearwoodrussel@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="" height="30" width="40" /></a>
-</p>
