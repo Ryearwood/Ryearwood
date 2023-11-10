@@ -27,8 +27,8 @@
 
 👋 Hi and welcome to my GitHub! 
 
-My name is Russell and I am a Software Engineer/Data Scientist interested in Robotics, Computer Vision, NLP and Machine Learning Applications
-- I currently work as a Software Engineer at Quandri where I build automation bots to simplify workflow processes
+My name is Russell and I am a Data/Software Engineer interested in Robotics and Machine Learning Applications
+- I currently work as a Software Engineer and Data Analytics Instructor focusing on Python and Elixir Respectively
 - I'm always interested in collaborating on any projects or interest pieces, and am happy to lend my assistance wherever I am able!
 
 <h4 align="left">Connect with me:</h4>
