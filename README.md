@@ -1,15 +1,25 @@
-👋 Hi and welcome to my GitHub! 
+<h1>👋 Hi and welcome to my GitHub!</h1> 
 
-My name is Russell and I am a Data/Software Engineer interested in Robotics and Machine Learning Applications
-- I currently work as a Software Engineer and Data Analytics Instructor focusing on Python and Elixir Respectively
-- I'm always interested in collaborating on any projects or interest pieces, and am happy to lend my assistance wherever I am able!
+<p>My name is Russell and I am a passionate Python Engineer interested in automation and engineering.</p>
+<li>Currently working as a Software Engineer and Data Analytics Instructor focusing on Python and Elixir respectively.</li>
+<li>Love to learn new methods/tools and happy to collaborate with new projects!</li>
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/yearwoodrussell/" target="blank"><img align="center" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="mailto:yearwoodrussel@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="" height="30" width="40" /></a>
-</p>
+---
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=528daf1jnerjq5omcrpzkz9gh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=528daf1jnerjq5omcrpzkz9gh&redirect=true)
 
+---
+<h3 align="left">Connect with me:
+<br>
+<br>
+<a href="https://www.linkedin.com/in/yearwoodrussell/" target="blank"><img align="center" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt="" height="40" width="50" /></a>
+<a href="mailto:yearwoodrussel@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="" height="40" width="50" /></a>
+</h3>
+
+<h3 align="left"> Tools I use regularly:</h3>
+<br>
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -26,10 +36,13 @@ My name is Russell and I am a Data/Software Engineer interested in Robotics and 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<h4 align="left">Visitor Count</h4>
+
+![Visitor Count](https://profile-counter.glitch.me/ryearwood/count.svg)
