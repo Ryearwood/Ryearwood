@@ -1,23 +1,79 @@
-<h1>👋 Hi and welcome to my GitHub!</h1> 
+## 👋 Hi and welcome to my GitHub!
 
-<p>My name is Russell and I am a passionate Python Engineer interested in automation and engineering.</p>
+<p>My name is Russell and I am a passionate, self-taught Python Engineer interested in automation and real-world problem solving.</p>
 <li>Currently working as a Software Engineer and Data Analytics Instructor focusing on Python and Elixir respectively.</li>
 <li>Love to learn new methods/tools and happy to collaborate with new projects!</li>
 
----
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=528daf1jnerjq5omcrpzkz9gh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=528daf1jnerjq5omcrpzkz9gh&redirect=true)
+### Connect with me:
 
----
-<h3 align="left">Connect with me:
-<br>
-<br>
 <a href="https://www.linkedin.com/in/yearwoodrussell/" target="blank"><img align="center" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt="" height="40" width="50" /></a>
-<a href="mailto:yearwoodrussel@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="" height="40" width="50" /></a>
-</h3>
+<a href="mailto:yearwoodrussel@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="" height="40" width="50" /></a> 
+- :octocat: [My Resume](https://drive.google.com/file/d/1w0KNSEpfg2jc6Gj-XT99Ai3NPxxyA2zm/view?usp=sharing)
+---
 
-<h3 align="left"> Tools I use regularly:</h3>
+#### Some GitHub Stats:
+<table align="left" width=200>
+<tr>
+  <th>GitHub stats</th>
+  <th>Most used languages</th>
+</tr>
+<tr>
+ <td>
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/ryearwood?cardType=octocat&theme=dark&preferLogin=false">
+   <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/ryearwood?cardType=octocat&theme=default&preferLogin=false" alt="Russell' Github Stats"/>
+  </picture>
+ </td>
+ <td>
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ryearwood&layout=compact&show_icons=True&theme=dark">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryearwood&layout=compact&show_icons=True&theme=default" alt="Russell' Github Languages"/>
+  </picture>
+ </td>
+</tr>
+<tr>
+ <td align="center">
+  Follow me: <img align="center" src="https://img.shields.io/github/followers/ryearwood?label=Follow&style=social" />
+  Total stars (incl. orgs.): <img align="center" src="https://img.shields.io/github/stars/ryearwood?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+ </td>
+ <td align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=ryearwood"/> <sub>since 25/4/24
+ </td>
+</tr>
+</table> 
+
+<table align="left">
+<tr>
+ <td align="center" width="40%">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=528daf1jnerjq5omcrpzkz9gh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
+   <img align="center" src="https://spotify-github-profile.vercel.app/api/view uid=528daf1jnerjq5omcrpzkz9gh&cover_image=true&theme=default&show_offline=false&background_color='ffffff'&interchange=false&bar_color_cover=true" alt="' Spotify"/>
+  </div>
+ </td>
+ <td>
+ Listen along on the left and shoot me a follow if you like it!<br>
+ I love Electronic music and enjoy rocking out while coding. <br>
+ My favourite playlist is a collaboration called "The Soup".<br>
+ It's an ever-expanding work in progress with a bit of everything. <br>
+ <br>
+  
+ Some personal fun facts:<br>
+ I'm usually a night owl at least 3 nights a week. <br>
+ I once trained German Shepherds for the RCMP. <br>
+ They allowed me to adopt a puppy from their litter in 2021 - Her name is Ren. <br>
+ Avid snowboarder, surfboarder and Longboarder.<br>
+ 
+ </td>
+</tr>
+</table> <br>
+<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+
+---
+
+#### Tools I use regularly:
 <br>
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,12 +93,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<h4 align="left">Visitor Count</h4>
-
-![Visitor Count](https://profile-counter.glitch.me/ryearwood/count.svg)
