@@ -1,14 +1,13 @@
 ## 👋 Hi and welcome to my GitHub!
 
-<p>My name is Russell and I am a passionate, self-taught Python Engineer interested in automation and real-world problem solving.</p>
+<p>My name is Russell and I am a passionate, self-taught Python Engineer interested in automation, machine learning and real-world applications to problem solving.</p>
 <li>Currently working as a Software Engineer and Data Analytics Instructor focusing on Python and SQL Databases. </li>
 <li>Love to learn new methods/tools and happy to collaborate with new projects!</li>
 
 ### On the Horizon
 
-- :white_circle: Learning Elixir from scratch with hands-on project development.
+- :white_circle: Learning Elixir, Phoenix, GraphQL, Absinthe and Ecto from scratch with hands-on project development and coursework.
 - :seedling: Learning Front-End Web Development with Javascript, Node.js and React.
-- :white_check_mark: Python Automation Project to build a Download Manager Script to help organize files on MacOS.
 - :wrench: Python End2End Project to Build a Personalized ATS program using Google's Gemini Pro model to train on scraped Linkedin Job Postings and modify resume data in-line with accuracy score. I want to eventually scale this out to automate Remote job applications in other countries entirely on a set schedule. 
 
 ### Connect with me:
