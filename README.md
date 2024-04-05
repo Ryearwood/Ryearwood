@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/yearwoodrussell/" target="blank"><img align="center" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt="" height="40" width="50" /></a>
 <a href="mailto:yearwoodrussel@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="" height="40" width="50" /></a> 
-- :octocat: [My Resume](https://drive.google.com/file/d/1w0KNSEpfg2jc6Gj-XT99Ai3NPxxyA2zm/view?usp=sharing)
+- :octocat: [My Resume](https://drive.google.com/file/d/1htfNHkunck-f1dg_hEkD_A5oPJ1SY7R7/view?usp=drive_link)
 ---
 
 #### Some GitHub Stats:
