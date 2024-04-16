@@ -26,15 +26,15 @@
 <tr>
  <td>
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/ryearwood?cardType=octocat&theme=dark&preferLogin=false">
-   <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/ryearwood?cardType=octocat&theme=default&preferLogin=false" alt="Russell' Github Stats"/>
+   <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/ryearwood?cardType=octocat&theme=radical&preferLogin=false">
+   <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/ryearwood?cardType=octocat&theme=radical&preferLogin=false" alt="Russell' Github Stats"/>
   </picture>
  </td>
  <td>
    
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-russ-projects-462044d3.vercel.app/api/top-langs/?username=ryearwood&layout=compact&show_icons=True&theme=dark">
-   <img align="center" src="https://github-readme-stats-russ-projects-462044d3.vercel.app/api/top-langs/?username=ryearwood&layout=compact&show_icons=True&theme=default" alt="Russell' Github Languages"/>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-russ-projects-462044d3.vercel.app/api/top-langs/?username=ryearwood&layout=compact&theme=radical&show_icons=true&hide=jupyter%20notebook">
+   <img align="center" src="https://github-readme-stats-russ-projects-462044d3.vercel.app/api/top-langs/?username=ryearwood&layout=compact&theme=radical&show_icons=true&hide=jupyter%20notebook" alt="Russell' Github Languages"/>
   </picture>
  </td>
 </tr>
