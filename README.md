@@ -6,7 +6,7 @@
 
 ### On the Horizon
 
-- :white_circle: Learning Elixir, Phoenix, GraphQL, and Ecto from scratch with hands-on project development and coursework.
+- :white_circle: Learning Backend Development with Elixir, Phoenix, GraphQL, and Ecto with hands-on projects, coursework and exercises.
 - :seedling: Learning Front-End Web Development with Javascript, Node.js and React.
 - :wrench: Python End2End Project to Build a Personalized ATS program using Google's Gemini Pro model to train on scraped Linkedin Job Postings and modify resume data in-line with accuracy score. I want to eventually scale this out to automate Remote job applications in other countries entirely on a set schedule. 
 
