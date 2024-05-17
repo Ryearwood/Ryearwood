@@ -1,14 +1,12 @@
 ## 👋 Hi and welcome to my GitHub!
 
 <p>My name is Russ and I am a passionate programmer interested in automation, machine learning and real-world application problem solving.</p>
-<li>Currently learning Elixir + Phoenix while working as a Software Engineer and Data Analytics Instructor. </li>
+<li>Currently mastering Elixir + Phoenix with Ecto and GraphQL, while working as a Software Engineer and Data Analytics Instructor. </li>
 <li>Love to learn new methods/tools and happy to collaborate with new projects!</li>
 
 ### On the Horizon
 
-- :white_circle: Learning Backend Development with Elixir, Phoenix, GraphQL, and Ecto with hands-on projects, coursework and exercises.
-- :seedling: Learning Front-End Web Development with Javascript, Node.js and React.
-- :wrench: Python End2End Project to Build a Personalized ATS program using Google's Gemini Pro model to train on scraped Linkedin Job Postings and modify resume data in-line with accuracy score. I want to eventually scale this out to automate Remote job applications in other countries entirely on a set schedule. 
+- :seedling: Building stack knowledge in Front-End Web Development with Javascript, Node.js and React. 
 
 ### Connect with me:
 
