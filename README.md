@@ -1,8 +1,6 @@
-## 👋 Hi and welcome to my GitHub!
+## 👋 Hi, I'm Russell Yearwood
 
-<p>My name is Russ and I am a passionate programmer interested in automation, machine learning and real-world application problem solving.</p>
-<li>Currently mastering Elixir + Phoenix with Ecto and GraphQL, while working as a Software Engineer and Data Analytics Instructor. </li>
-<li>Love to learn new methods/tools and happy to collaborate with new projects!</li>
+I've been working as a Software Engineer for the last 4 years with a focus on Python(Data Science, ML/AI, Data Analysis, Automation), however I've recently begun learning Functional Programming with [Elixir-Phoenix](https://elixir-lang.org/) through the [LearnElixir Course](https://learn-elixir.dev/#curriculum) (Which I'm thoroughly enjoying). This includes building fully personalalized projects utilizing tools like GraphQL and Ecto for Querying, Database management and integration.
 
 ### On the Horizon
 
