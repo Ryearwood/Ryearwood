@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Russell Yearwood
 
-Self-taught and working Software Engineer for the last 4 years with a focus on Python(Data Science, ML/AI, Data Analysis and Automation), however I've picked Functional Programming with [Elixir-Phoenix](https://elixir-lang.org/) through the [LearnElixir Course](https://learn-elixir.dev/#curriculum) and the [Pragmatic Studio Course](https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react) (Which I'm thoroughly enjoying) building fully personalalized projects with tools like GraphQL and Ecto for Querying, Database management and integration.
+Self-taught and working Software Engineer for the last 4 years with a focus on Python(Data Science, ML/AI, Data Analysis and Automation), however I'm diving into Functional Programming with [Elixir-Phoenix](https://elixir-lang.org/) through the [LearnElixir Course](https://learn-elixir.dev/#curriculum) alongside the [Pragmatic Studio Course](https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react). Fully enjoying building some personal projects with tools like GraphQL and Ecto for Querying, Database management and integration.
 
 ### Connect with me:
 
