@@ -39,36 +39,9 @@ Self-taught and working Software Engineer for the last 4 years with a focus on P
   <img align="center" src="https://komarev.com/ghpvc/?username=ryearwood"/> <sub>since 25/4/24
  </td>
 </tr>
-</table> 
+</table>
 
-<table align="left">
-<tr>
- <td align="center" width="40%">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=528daf1jnerjq5omcrpzkz9gh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
-   <img align="center" src="https://spotify-github-profile.vercel.app/api/view uid=528daf1jnerjq5omcrpzkz9gh&cover_image=true&theme=default&show_offline=false&background_color='ffffff'&interchange=false&bar_color_cover=true" alt="' Spotify"/>
-  </div>
- </td>
- <td>
- Listen along on the left and shoot me a follow if you like it!<br>
- I love Electronic music and enjoy rocking out while coding. <br>
- My favourite playlist is a collaboration called "The Soup".<br>
- It's an ever-expanding work in progress with a bit of everything. <br>
- <br>
-  
- Some personal fun facts:<br>
- I'm usually a night owl at least 3 nights a week. <br>
- I once trained German Shepherds for the RCMP. <br>
- They allowed me to adopt a puppy from their litter in 2021 - Her name is Ren. <br>
- Avid snowboarder, surfboarder and Longboarder.<br>
- 
- </td>
-</tr>
-</table> <br>
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### Languages, Frameworks and Version Control
 ---
@@ -77,19 +50,19 @@ Self-taught and working Software Engineer for the last 4 years with a focus on P
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix%20Framework-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-#### Machine Learning
+#### Machine Learning & Tools
 ---
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -117,10 +90,4 @@ Self-taught and working Software Engineer for the last 4 years with a focus on P
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-#### Learning Resources
----
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 
