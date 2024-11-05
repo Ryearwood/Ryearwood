@@ -40,7 +40,7 @@ Self-taught and working Software Engineer for the last 4 years with a focus on P
 </tr>
 </table>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### Languages, Frameworks and Version Control
 ---
